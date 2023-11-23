@@ -32,7 +32,7 @@ function App() {
         {/* <PacmanGhosts /> */}
         <Routes>
           <Route path="/"  element={<Home />} />
-          <Route path="/" element={<Projects />} />
+          {/* <Route path="/" element={<Projects />} /> */}
         </Routes>
         <Footer />
         
