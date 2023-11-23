@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_Arnav/static/css/main.57b4ff2c.css",
-    "main.js": "/Portfolio_Arnav/static/js/main.e1442518.js",
+    "main.js": "/Portfolio_Arnav/static/js/main.9fa0c8cf.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio_Arnav/static/js/787.1ed0c42c.chunk.js",
     "static/media/E-com.png": "/Portfolio_Arnav/static/media/E-com.652bd011f280ef9ca665.png",
     "static/media/sidelogo1.png": "/Portfolio_Arnav/static/media/sidelogo1.f997c2b5cf11b7a9e42c.png",
@@ -17,11 +17,11 @@
     "static/media/avatar.jpg": "/Portfolio_Arnav/static/media/avatar.e38494b5bcc71f324912.jpg",
     "index.html": "/Portfolio_Arnav/index.html",
     "main.57b4ff2c.css.map": "/Portfolio_Arnav/static/css/main.57b4ff2c.css.map",
-    "main.e1442518.js.map": "/Portfolio_Arnav/static/js/main.e1442518.js.map",
+    "main.9fa0c8cf.js.map": "/Portfolio_Arnav/static/js/main.9fa0c8cf.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio_Arnav/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57b4ff2c.css",
-    "static/js/main.e1442518.js"
+    "static/js/main.9fa0c8cf.js"
   ]
 }
