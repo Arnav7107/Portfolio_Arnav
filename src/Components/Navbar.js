@@ -3,7 +3,7 @@ import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
 import Container from 'react-bootstrap/Container'
 import Button from 'react-bootstrap/Button'
-import {Link} from 'react-router-dom'
+// import {Link} from 'react-router-dom'
 import {CgGitFork} from 'react-icons/cg'
 import {
   AiFillStar,
@@ -43,7 +43,8 @@ function NavBar() {
       className={navColour ? 'sticky' : 'navbar'}
     >
       <Container>
-        <Navbar.Brand as={Link} to="/">
+        <a className="button-link" href="/">
+        {/* <Navbar.Brand as={Link} to="/"> */}
           <p
             style={{
               // color: '#be50f4',
@@ -57,7 +58,8 @@ function NavBar() {
           >
             Arnav Verma
           </p>
-        </Navbar.Brand>
+        {/* </Navbar.Brand> */}
+        </a>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
           onClick={() => {
@@ -76,39 +78,46 @@ function NavBar() {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ml-auto centered-nav" defaultActiveKey="#home">
             <Nav.Item>
-              <Nav.Link as={Link} to="/" onClick={() => {
+              {/* <Nav.Link as={Link} to="/"  */}
+              <a
+              className="button-link"
+              onClick={() => {
                 scrollToSection('home_sec');
-                updateExpanded(false)}}>
+                updateExpanded(false)}}
+                  >
                 <AiOutlineHome style={{marginBottom: '2px'}} /> Home
-              </Nav.Link>
+                </a>
+              {/* </Nav.Link> */}
             </Nav.Item>
 
             <Nav.Item>
-              <Nav.Link
-                as={Link}
-                to="/"
+              {/* <Nav.Link as={Link} to="/" */}
+              <a
+              className="button-link"
                 onClick={() =>
                   {scrollToSection('section1');
                   updateExpanded(false)} }
               >
                 <AiOutlineUser style={{marginBottom: '2px'}} /> About
-              </Nav.Link>
+                </a>
+              {/* </Nav.Link> */}
             </Nav.Item>
             {/* <Link to="/" onClick={() => scrollToSection('section1')}>
               About
             </Link> */}
 
             <Nav.Item>
-              <Nav.Link
-                as={Link}
-                to="/"
+              {/* <Nav.Link as={Link} to="/" */}
+              <a
+              className="button-link"
                 onClick={() => {
                   scrollToSection("section2")
                   updateExpanded(false)}}
-              >
+                >
                 <AiOutlineFundProjectionScreen style={{marginBottom: '2px'}} />{' '}
                 Projects
-              </Nav.Link>
+                </a>
+              {/* </Nav.Link> */}
             </Nav.Item>
 
 

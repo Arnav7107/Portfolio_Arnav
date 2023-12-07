@@ -6,3 +6,20 @@
     height: 100%;
   }
   
+
+  .button-link {
+    display: inline-block;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: #0000; /* Choose your desired background color */
+    color: #fff; /* Choose your desired text color */
+    border-radius: 5px;
+  }
+  
+  .button-link:hover {
+    background-color: #0000; /* Choose your desired background color on hover */
+  }
+  
+  
