@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Portfolio_Arnav/static/css/main.57b4ff2c.css",
-    "main.js": "/Portfolio_Arnav/static/js/main.9fa0c8cf.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Portfolio_Arnav/static/js/787.1ed0c42c.chunk.js",
-    "static/media/E-com.png": "/Portfolio_Arnav/static/media/E-com.652bd011f280ef9ca665.png",
-    "static/media/sidelogo1.png": "/Portfolio_Arnav/static/media/sidelogo1.f997c2b5cf11b7a9e42c.png",
-    "static/media/easy-code.png": "/Portfolio_Arnav/static/media/easy-code.d399bb77712bb35103b7.png",
-    "static/media/artisteeF.png": "/Portfolio_Arnav/static/media/artisteeF.1f84ada010a095c0c39c.png",
-    "static/media/artisteeA.png": "/Portfolio_Arnav/static/media/artisteeA.3e9d3b9199f7ec4549cd.png",
-    "static/media/jsomBlog.png": "/Portfolio_Arnav/static/media/jsomBlog.94e64b2da457909bf52d.png",
-    "static/media/Storyy.jpg": "/Portfolio_Arnav/static/media/Storyy.dc5b5e2783bcbae3a873.jpg",
-    "static/media/Taskify.png": "/Portfolio_Arnav/static/media/Taskify.c01e7b8573bcb4475ea3.png",
-    "static/media/AppointEase.jpg": "/Portfolio_Arnav/static/media/AppointEase.01085cdaa565aa7f6e4a.jpg",
-    "service-worker.js": "/Portfolio_Arnav/service-worker.js",
-    "static/media/webverse.png": "/Portfolio_Arnav/static/media/webverse.a8814e50fc3bec875b7d.png",
-    "static/media/avatar.jpg": "/Portfolio_Arnav/static/media/avatar.e38494b5bcc71f324912.jpg",
-    "index.html": "/Portfolio_Arnav/index.html",
-    "main.57b4ff2c.css.map": "/Portfolio_Arnav/static/css/main.57b4ff2c.css.map",
-    "main.9fa0c8cf.js.map": "/Portfolio_Arnav/static/js/main.9fa0c8cf.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Portfolio_Arnav/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.4680fd1e.css",
+    "main.js": "/static/js/main.b7edeb6f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/E-com.png": "/static/media/E-com.652bd011f280ef9ca665.png",
+    "static/media/sidelogo1.png": "/static/media/sidelogo1.f997c2b5cf11b7a9e42c.png",
+    "static/media/easy-code.png": "/static/media/easy-code.d399bb77712bb35103b7.png",
+    "static/media/artisteeF.png": "/static/media/artisteeF.1f84ada010a095c0c39c.png",
+    "static/media/artisteeA.png": "/static/media/artisteeA.3e9d3b9199f7ec4549cd.png",
+    "static/media/jsomBlog.png": "/static/media/jsomBlog.94e64b2da457909bf52d.png",
+    "static/media/Storyy.jpg": "/static/media/Storyy.dc5b5e2783bcbae3a873.jpg",
+    "static/media/Taskify.png": "/static/media/Taskify.c01e7b8573bcb4475ea3.png",
+    "static/media/AppointEase.jpg": "/static/media/AppointEase.01085cdaa565aa7f6e4a.jpg",
+    "service-worker.js": "/service-worker.js",
+    "static/media/webverse.png": "/static/media/webverse.a8814e50fc3bec875b7d.png",
+    "static/media/avatar.jpg": "/static/media/avatar.e38494b5bcc71f324912.jpg",
+    "index.html": "/index.html",
+    "main.4680fd1e.css.map": "/static/css/main.4680fd1e.css.map",
+    "main.b7edeb6f.js.map": "/static/js/main.b7edeb6f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57b4ff2c.css",
-    "static/js/main.9fa0c8cf.js"
+    "static/css/main.4680fd1e.css",
+    "static/js/main.b7edeb6f.js"
   ]
 }
